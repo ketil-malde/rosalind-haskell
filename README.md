@@ -13,10 +13,10 @@ to eliminate this dependency, and they are now at the bottom of the
 source file.)
 
 The main function reads test data from the
-[](https://github.com/PierreBedoucha/bib2016) repository and produces
+[BIB 2016](https://github.com/PierreBedoucha/bib2016) repository and produces
 the (or so I hope!) correct output.
 
 I hope this can be of use to people who know bioinformatics, and are
 interested in Haskell - or vice versa.  Needless to say, the
-implmentations are naïve and probably scale less than ideal.
+implementations are naïve and probably scale less than ideal.
 
